@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+httpx
+selectolax
+crawlee[beautifulsoup]
+mechanicalsoup
+scrapy
+crawl4ai
+playwright
+selenium
